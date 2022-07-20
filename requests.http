@@ -1,0 +1,5 @@
+### Direct request
+GET https://api.thedogapi.com/v1/breeds?api_key=API-KEY
+
+### Request through backend route
+GET http://localhost:3000/breeds.json
